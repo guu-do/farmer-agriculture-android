@@ -53,7 +53,7 @@
 
 
 ## Demo
-[Download apk](app-debug.apk)
+[Download apk](https://github.com/gradlicacademy/farmer-agriculture-android/blob/master/app-debug.apk)
 
 Auto-reply email and email-notifications are disabled. To enable it go to Config.java file and provide email id and password.
 
