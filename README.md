@@ -47,9 +47,7 @@
 
 ![Send email](Screenshots/buy.jpeg)
 
-#### 10. Feedback
 
-![feedback](Screenshots/Feedback.jpg)
 
 
 ## Demo
